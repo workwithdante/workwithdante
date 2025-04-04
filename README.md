@@ -32,7 +32,7 @@
 <img alt="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>&nbsp;&nbsp;
 <a href="https://mariadb.org/">
 <img alt="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" /></a>&nbsp;&nbsp;
-<a href="https://komodoide.com/">
+<a href="https://komo.do/">
 <img alt="Komodo" width="30px" src="https://komo.do/img/komodo-512x512.png" /></a>&nbsp;&nbsp;
 <a href="https://www.portainer.io/">
 <img alt="Portainer" width="30px" src="https://avatars.githubusercontent.com/u/22225832?s=48&v=4" /></a>&nbsp;&nbsp;
