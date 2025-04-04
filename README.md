@@ -14,18 +14,30 @@
 > 💻 Habilidades y Tecnologías:
 >
 <div align="center">
-<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-<img alt="Frappe" width="30px" src="https://github.com/frappe/frappe/raw/develop/.github/framework-logo-new.svg" />&nbsp;&nbsp;
-<img alt="Selenium" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/selenium.svg" />&nbsp;&nbsp;
-<img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;
-<img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
-<img alt="Superset" width="30px" src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1623645536/hevo-learn/Superset/Superset.png?_i=AA" />&nbsp;&nbsp;
-<img alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp;&nbsp;
-<img alt="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
-<img alt="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />&nbsp;&nbsp;
-<img alt="Komodo" width="30px" src="https://komo.do/img/komodo-512x512.png" />&nbsp;&nbsp;
-<img alt="Portainer" width="30px" src="https://avatars.githubusercontent.com/u/22225832?s=48&v=4" />&nbsp;&nbsp;
-<img alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />&nbsp;&nbsp;
+<a href="https://www.python.org/">
+<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>&nbsp;&nbsp;
+<a href="https://frappeframework.com/">
+<img alt="Frappe" width="30px" src="https://github.com/frappe/frappe/raw/develop/.github/framework-logo-new.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.selenium.dev/">
+<img alt="Selenium" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/selenium.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/">
+<img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/">
+<img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>&nbsp;&nbsp;
+<a href="https://superset.apache.org/">
+<img alt="Superset" width="30px" src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1623645536/hevo-learn/Superset/Superset.png?_i=AA" /></a>&nbsp;&nbsp;
+<a href="https://angular.io/">
+<img alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/">
+<img alt="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>&nbsp;&nbsp;
+<a href="https://mariadb.org/">
+<img alt="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" /></a>&nbsp;&nbsp;
+<a href="https://komodoide.com/">
+<img alt="Komodo" width="30px" src="https://komo.do/img/komodo-512x512.png" /></a>&nbsp;&nbsp;
+<a href="https://www.portainer.io/">
+<img alt="Portainer" width="30px" src="https://avatars.githubusercontent.com/u/22225832?s=48&v=4" /></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io/">
+<img alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" /></a>&nbsp;&nbsp;
 </div>
 <br />
 
