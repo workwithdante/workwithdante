@@ -60,7 +60,7 @@
 > 🚀 Conéctate conmigo:
 >
 <p align="center">
-    <a href="www.linkedin.com/in/jorge-devia-bb3aba262" target="_blank">
+    <a href="https://www.linkedin.com/in/jorge-devia-bb3aba262" target="_blank">
         <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/>
     </a>&nbsp;
     <a href="mailto:dantedevenir@outlook.com" target="_blank">
