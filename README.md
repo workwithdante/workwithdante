@@ -2,8 +2,7 @@
 <!-- Presentation section -->
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Automatizador%20de%20procesos;FullStack%20/%20Analista%20de%20Datos&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Automatizador%20de%20procesos;FullStack%20/%20Analista%20de%20Datos&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
@@ -26,7 +25,7 @@
 <img alt="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />&nbsp;&nbsp;
 <img alt="Komodo" width="30px" src="https://komo.do/img/komodo-512x512.png" />&nbsp;&nbsp;
 <img alt="Portainer" width="30px" src="https://avatars.githubusercontent.com/u/22225832?s=48&v=4" />&nbsp;&nbsp;
-<img alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />
+<img alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />&nbsp;&nbsp;
 </div>
 <br />
 
