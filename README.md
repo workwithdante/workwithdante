@@ -50,8 +50,9 @@
 >
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-devia-bb3aba262">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32" style="padding-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32" style="padding-right:20px;"/>
   </a>
   <a href="mailto:dantedevenir@outlook.com">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32" style="padding-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32" style="padding-right:20px;"/>
   </a>
+</p>
