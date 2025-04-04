@@ -49,12 +49,9 @@
 > 🚀 Conéctate conmigo:
 >
 <p align="center">
-  <a href="https://github.com/[Your GitHub Username]">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/github.svg" width="32"/>
-  </a>
   <a href="https://www.linkedin.com/in/jorge-devia-bb3aba262">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/>
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32" style="padding-right:10px;"/>
   </a>
   <a href="mailto:dantedevenir@outlook.com">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32"/>
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32" style="padding-right:10px;"/>
   </a>
