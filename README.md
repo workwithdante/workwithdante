@@ -53,7 +53,7 @@
 *   **Implementación de Sistemas:** Implementación y personalización de sistemas Frappe/ERPNext y VTigerCRM.
 *   **Raspado Web:** Desarrollo de raspadores web para la extracción de datos programada.
 *   **Generación de Informes:** Creación de informes para campañas de ventas y análisis de datos.
-*   **Manejo de Personal:** Manejo de equipos de hasta 30 personas.
+*   **Manejo de Personal:** Manejo de equipos de hasta 10 personas.
 *   **Desarrollo Front-End:** Utilización de Angular, TypeScript, SASS y RXJS para el desarrollo front-end.
 
 <!-- Social media section -->
