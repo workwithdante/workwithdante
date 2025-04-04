@@ -33,55 +33,17 @@
 <!-- Experience section -->
 > 💼 Experiencia:
 >
-**MABE CENTER Pereira**\
-Desarrollador Full Stack\
-FEB 2024 - Actualmente
 
-*   Desarrollo de aplicación en Frappe para el análisis, transformación y sincronización de datos a través de archivos CSV
-*   Desarrollo de extensión para VTiger 8.3 para el upgrade de datos
-*   Automatización y administración de reportería en Superset basado en vistas materializadas en mariadb
-*   Centralización de repositorios on-premise y flujo CI/CD sobre forgejo, terraform y minio.
-*   Personalización de EXPNext como aplicación independiente para departamento de RRHH
-
-**MABE CENTER Pereira**\
-Automatizador de Procesos\
-OCT 2019 - MAR 2023
-
-*   Dockerización de VPN a proxies para el ocultamiento ip del raspado web programado
-*   Dockerización del raspado web, impulsado por tecnología Selenium Grid Dynamic para ocultamiento de user agent y despliegue horizontal del microservicio.
-*   Implementación de sistema Frappe/ERPNext y creación de herramienta migratoria de datos VTigerCRM a ERPNext (RESTAPI)
-*   Implementación del raspador web a aplicación frappe
-*   Automatización del proceso de Digitalización, impulsado por tecnología Selenium Server Alone. Implementado en Python.
-*   Implementación en Python y conector MYSQL en C para sistema Schedule para el raspado programado de páginas web para posterior análisis comparativo con bases SQL (MariaDB)
-*   Generación de informes para campaña de ventas de seguros médicos
-*   Manipulación del flujo de trabajo para los departamentos de Customer Services, Sales y Payments.
-*   Manejo de personal, alrededor de 30 personas para el departamento asignado.
-*   Implementación de Sistema VTigerCRM por emergencia sanitaria COVID
-*   Migración total de documentos físicos y bases en Excel a formularios VTigerCRM impulsados por tecnología SQL (MariaDB)
-*   Implementación en PHP del módulo RESTAPI de VTigerCRM para la exportación de documentos locales
-*   Digitalización de documentos físicos a sistema VTigerCRM
-*   Generación de informes por medio de VBA, en Power BI y hojas de datos Excel
-
-**Worx 1 HR Medellín**\
-Desarrollador FullStack\
-JUN 2023 - FEB 2024
-
-*   Desarrollo de aplicación en Frappe y angular para la cotización de Workers Comp y Real State
-*   Migración de datos en excel a Azure Database PostgreSQL
-*   Sanitización de datos email a través de la implementación de MailChimp en python
-
-**SOLUCIONES GLOBALES SAS Pereira**\
-Desarrollador FrontEnd\
-MAR 2023 - JUN 2023
-
-*   Manejo de Git Flow para desarrollo colaborativo
-*   Manejo de SASS para estilización del FrontEnd
-*   Uso de Angular TypeScript para implementación de servicios y componentes
-*   Consumo de API para la generación de informes al cliente
-*   Manejo de librería DevExtreme para Angular
-*   Implementación de RXJS para Angular
-*   Creación de funciones Postgres
-*   Manejo de archivos JSON desde postgres para el consumo de API’S
+*   **Automatización de Procesos:** Desarrollo de soluciones de automatización utilizando Python y Selenium.
+*   **Desarrollo Web:** Experiencia en desarrollo front-end con Angular y Frappe.
+*   **Migración de Datos:** Migración y transformación de datos entre diferentes sistemas y formatos.
+*   **Bases de Datos:** Gestión de bases de datos con Postgres y MariaDB.
+*   **Dockerización:** Dockerización de aplicaciones y servicios para despliegue y escalabilidad.
+*   **Implementación de Sistemas:** Implementación y personalización de sistemas Frappe/ERPNext y VTigerCRM.
+*   **Raspado Web:** Desarrollo de raspadores web para la extracción de datos programada.
+*   **Generación de Informes:** Creación de informes para campañas de ventas y análisis de datos.
+*   **Manejo de Personal:** Manejo de equipos de hasta 30 personas.
+*   **Desarrollo Front-End:** Utilización de Angular, TypeScript, SASS y RXJS para el desarrollo front-end.
 
 <!-- Social media section -->
 > 🚀 Conéctate conmigo:
@@ -90,9 +52,9 @@ MAR 2023 - JUN 2023
   <a href="https://github.com/[Your GitHub Username]">
     <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/github.svg" width="32"/>
   </a>
-  <a href="https://www.linkedin.com/in/[Your LinkedIn Username]">
+  <a href="https://www.linkedin.com/in/jorge-devia-bb3aba262">
     <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/>
   </a>
-  <a href="mailto:[Your Email Address]">
+  <a href="mailto:dantedevenir@outlook.com">
     <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32"/>
   </a>
