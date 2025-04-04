@@ -15,18 +15,18 @@
 > 💻 Habilidades y Tecnologías:
 >
 <div align="center">
-  <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Frappe" width="30px" style="padding-right:10px;" src="https://github.com/frappe/frappe/raw/develop/.github/framework-logo-new.svg" />
-  <img alt="Selenium" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/selenium.svg" />
-  <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Superset" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1623645536/hevo-learn/Superset/Superset.png?_i=AA" />
-  <img alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MariaDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />
-  <img alt="Komodo" width="30px" style="padding-right:10px;" src="https://komo.do/img/komodo-512x512.png" />
-  <img alt="Portainer" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/22225832?s=48&v=4" />
-  <img alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />
+<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+<img alt="Frappe" width="30px" src="https://github.com/frappe/frappe/raw/develop/.github/framework-logo-new.svg" />&nbsp;&nbsp;
+<img alt="Selenium" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/selenium.svg" />&nbsp;&nbsp;
+<img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;
+<img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+<img alt="Superset" width="30px" src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1623645536/hevo-learn/Superset/Superset.png?_i=AA" />&nbsp;&nbsp;
+<img alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp;&nbsp;
+<img alt="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+<img alt="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />&nbsp;&nbsp;
+<img alt="Komodo" width="30px" src="https://komo.do/img/komodo-512x512.png" />&nbsp;&nbsp;
+<img alt="Portainer" width="30px" src="https://avatars.githubusercontent.com/u/22225832?s=48&v=4" />&nbsp;&nbsp;
+<img alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />
 </div>
 <br />
 
@@ -52,7 +52,6 @@
   <a href="https://www.linkedin.com/in/jorge-devia-bb3aba262">
     <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/>
   </a>
-&nbsp;&nbsp;&nbsp;
   <a href="mailto:dantedevenir@outlook.com">
     <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32"/>
   </a>
