@@ -59,8 +59,10 @@
 > 🚀 Conéctate conmigo:
 >
 <div align="center">
+<a href="https://www.facebook.com/people/Work-With-Dante/61574957611240/" target="_blank">
+<img src="https://icon-library.com/images/facebook-like-icon-png-transparent/facebook-like-icon-png-transparent-27.jpg" width="32"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jorge-devia-bb3aba262/" target="_blank">
-<img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/></a>&nbsp;&nbsp;
+<img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" width="32"/></a>&nbsp;&nbsp;
 <a href="mailto:dantedevenir@outlook.com" target="_blank">
-<img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32"/></a>&nbsp;&nbsp;
+<img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" width="32"/></a>&nbsp;&nbsp;
 </div>
