@@ -2,7 +2,7 @@
 <!-- Presentation section -->
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Automatizador%20de%20procesos;FullStack%20/%20Analista%20de%20Datos&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Automatizador%20de%20procesos;FullStack%20/%20Analista%20de%20Datos&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&color=F7F7F7&size=22" />
 </p>
 
 ---
