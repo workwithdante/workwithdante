@@ -1,7 +1,7 @@
 ## Jorge Devia
 <!-- Presentation section -->
 > <p align="center">
-> <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=200&color=F7F7F7&background=9856FF00&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Analista+de+Datos;DevOps" alt="Typing SVG" />
+> <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=200&color=7E7E7EFF&background=9856FF00&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Analista+de+Datos;DevOps" alt="Typing SVG" />
 </p>
 
 ---
