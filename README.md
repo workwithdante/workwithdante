@@ -7,7 +7,7 @@
 ---
 
 <!-- Bio section -->
-¡Hola! Soy Jorge Devia. Automatizador de procesos con más de 5 años de experiencia en desarrollo full stack, enfocado en la migración, digitalización y análisis de datos. Especializado en la creación de flujos de trabajo eficientes para sistemas ERP y soluciones empresariales. Reconocido por transformar tareas operativas en procesos sostenibles, optimizando tiempos y mejorando la productividad a través del desarrollo de soluciones personalizadas.
+¡Hola! Soy Jorge Devia. Analista de Datos con más de 7 años de experiencia en desarrollo full stack, enfocado en la migración, digitalización y análisis de datos. Especializado en la creación de flujos de trabajo eficientes para sistemas ERP y soluciones empresariales. Reconocido por transformar tareas operativas en procesos sostenibles, optimizando tiempos y mejorando la productividad a través del desarrollo de soluciones personalizadas.
 
 <!-- Skills section -->
 > 💻 Habilidades y Tecnologías:
