@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://workwithdevia.gitlab.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Sitio_Web-05122A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://gitlab.com/workwithdevia" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
